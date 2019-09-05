@@ -8,7 +8,6 @@ color:white;
 	font-size: 42px;
 	float:left;
 	margin-left: 2%;
-	margin-top: 2px;
 }
 
 .menu{
@@ -27,7 +26,7 @@ color:white;
 	overflow:hidden;
 }
 
-a.name, a.menu, a.name:visited, a.menu:visited{
+a#name, a.menu, a#name:visited, a.menu:visited{
 	color:black;
 }
 
