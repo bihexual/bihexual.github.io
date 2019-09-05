@@ -14,7 +14,14 @@ color:white;
 	border-color: white;
 	margin: 20px 40px;
 	font-family: 'Oswald', sans-serif; /*headers*/
+	font-size:22px;
 	float:right;
+}
+
+.navbar{
+	background-color:gray;
+	width:90%;
+	margin-left:5%;
 }
 
 /* font-family: 'Merriweather', serif; /*long text*/
