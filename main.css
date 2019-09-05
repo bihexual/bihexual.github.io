@@ -25,6 +25,14 @@ color:white;
 	overflow:hidden;
 }
 
+a.menu,a.menu:visited{
+	color: black;
+}
+
+a.navbar, a.navbar:visited{
+	color:black;
+}
+
 /* font-family: 'Merriweather', serif; /*long text*/
 /* font-family: 'Stardos Stencil', cursive; /*my name*/
 /* font-family: 'Oswald', sans-serif; /*headers*/
