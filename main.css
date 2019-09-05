@@ -2,6 +2,7 @@ html, body{
 background-color:black;
 color:white;
 height:100%;
+font-family: 'Merriweather', serif; /*long text*/
 }
 
 #name, #name2{
@@ -46,12 +47,17 @@ height:100%;
 }
 
 .dright{
-	height:76%;
+	height:96%;
 	width: 44%;
 	float: right;
 	margin-top:2%;
 	margin-right: 2%;
 	background-color:black;
+}
+
+img {
+	max-height: 100%;
+	max-width:100%;
 }
 
 a#name, a.menu, a#name:visited, a.menu:visited{
