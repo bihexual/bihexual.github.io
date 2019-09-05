@@ -22,6 +22,7 @@ color:white;
 	background-color:#ffffff;
 	width:90%;
 	margin-left:5%;
+	overflow:hidden;
 }
 
 /* font-family: 'Merriweather', serif; /*long text*/
