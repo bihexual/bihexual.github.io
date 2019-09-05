@@ -18,10 +18,17 @@ color:white;
 }
 
 .navbar{
-	background-color:#ffffff;
+	background-color:white;
 	width:90%;
 	margin-left:5%;
 	overflow:hidden;
+}
+
+.blank_page{
+	background-color: white;
+	width:90%;
+	margin-left:5%;
+	height:80%;
 }
 
 a#name, a.menu, a#name:visited, a.menu:visited{
