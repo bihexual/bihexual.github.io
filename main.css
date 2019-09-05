@@ -39,7 +39,7 @@ font-family: 'Merriweather', serif; /*long text*/
 
 .dleft{
 	height:96%;
-	width: 44%;
+	width: 46%;
 	float: left;
 	margin-top:2%;
 	margin-left: 2%;
@@ -48,7 +48,7 @@ font-family: 'Merriweather', serif; /*long text*/
 
 .dright{
 	height:96%;
-	width: 44%;
+	width: 46%;
 	float: right;
 	margin-top:2%;
 	margin-right: 2%;
