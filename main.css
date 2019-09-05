@@ -67,10 +67,26 @@ a#name, a.menu, a#name:visited, a.menu:visited{
 @media only screen and (max-width: 1000px) {
   body {
     background-color: lightblue;
-  }
+	}	
   .navbar{
 	  display:none;
-  }
+	}
+  
+  .dleft{
+	height:96%;
+	width: 96%;
+	margin-top:2%;
+	margin-left: 2%;
+	background-color:red;
+	}	
+
+	.dright{
+	height:96%;
+	width: 49%;
+	margin-top:2%;
+	margin-right: 2%;
+	background-color:black;
+	}
   
 }
 
