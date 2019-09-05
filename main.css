@@ -3,7 +3,7 @@ background-color:black;
 color:white;
 }
 
-#name{
+#name, #names{
 	font-family: 'Stardos Stencil', cursive; /*my name*/
 	font-size: 38px;
 	float:left;
@@ -35,13 +35,12 @@ a#name, a.menu, a#name:visited, a.menu:visited{
   .navbar{
 	  display:none;
   }
-  #name{
-			display:none;
-	}
 }
 
 @media only screen and (min-width: 1000px) {
-		
+		#names{
+			display:none;
+		}
 	}
 
 
