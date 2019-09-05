@@ -5,14 +5,13 @@ color:white;
 
 #name{
 	font-family: 'Stardos Stencil', cursive; /*my name*/
-	font-size: 42px;
+	font-size: 40px;
 	float:left;
 	margin-left: 2%;
 }
 
 .menu{
-	border-style: outset;
-	border-color: white;
+	border: 2px outset yellow;
 	padding: 10px 40px;
 	font-family: 'Oswald', sans-serif; /*headers*/
 	font-size:22px;
