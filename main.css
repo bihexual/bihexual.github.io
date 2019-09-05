@@ -35,12 +35,13 @@ a#name, a.menu, a#name:visited, a.menu:visited{
   .navbar{
 	  display:none;
   }
+  #name{
+			display:none;
+	}
 }
 
 @media only screen and (min-width: 1000px) {
-		#name{
-			display:none;
-		}
+		
 	}
 
 
