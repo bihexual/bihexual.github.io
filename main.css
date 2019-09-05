@@ -78,21 +78,21 @@ img {
 
 .rig{
 	width:21%;
-	height:45;
+	height:45%;
 	margin-top:2%;
 	margin-left:3%;
 	overflow:hidden;
 }
 
 .lbox{
-	height:47%;
+	height:100%;
 	width:47%;
 	background-color:green;
 	float:left;
 }
 
 .rbox{
-	height:47%;
+	height:100%;
 	width:47%;
 	background-color:green;
 	float:right;
@@ -100,13 +100,13 @@ img {
 
 .topb{
 	height:47%;
-	width:47%;
+	width:100%;
 	background-color:green;
 }
 
 .botb{
 	height:47%;
-	width:47%;
+	width:100%;
 	background-color:green;
 }
 
