@@ -3,9 +3,17 @@ background-color:black;
 color:white;
 }
 
-.name{
+#name{
 	font-family: 'Stardos Stencil', cursive; /*my name*/
 	font-size: 72px;
+	float:left;
+}
+
+.menu{
+	border-style: outset;
+	margin: 10px 20px;
+	font-family: 'Oswald', sans-serif; /*headers*/
+	float:right;
 }
 
 /* font-family: 'Merriweather', serif; /*long text*/
