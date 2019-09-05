@@ -7,12 +7,14 @@ color:white;
 	font-family: 'Stardos Stencil', cursive; /*my name*/
 	font-size: 42px;
 	float:left;
+	margin-left: 2%;
+	margin-top: 2px;
 }
 
 .menu{
 	border-style: outset;
 	border-color: white;
-	padding: 20px 40px;
+	padding: 10px 40px;
 	font-family: 'Oswald', sans-serif; /*headers*/
 	font-size:22px;
 	float:right;
@@ -25,7 +27,7 @@ color:white;
 	overflow:hidden;
 }
 
-a.navbar, a.navbar:visited{
+a.name, a.menu, a.name:visited, a.menu:visited{
 	color:black;
 }
 
