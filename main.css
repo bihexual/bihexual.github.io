@@ -65,6 +65,7 @@ img {
 	width: 45%;
 	margin-top:2%;
 	margin-left:14%;
+	overflow:hidden;
 }
 
 .bot1{
@@ -72,6 +73,7 @@ img {
 	width: 45%;
 	margin-top:1%;
 	margin-left:14%;
+	overflow:hidden;
 }
 
 .rig{
@@ -79,6 +81,7 @@ img {
 	height:45;
 	margin-top:2%;
 	margin-left:3%;
+	overflow:hidden;
 }
 
 .lbox{
