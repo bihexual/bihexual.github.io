@@ -94,12 +94,14 @@ a#name, a.menu, a#name:visited, a.menu:visited{
   
   .dleft{
 	width: 96%;
+	float:none;
 	margin-top:2%;
 	margin-left: 2%;
 	}	
 
 	.dright{
 	width: 96%;
+	float:none;
 	margin-top:2%;
 	margin-left: 2%;
 	}
