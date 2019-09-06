@@ -3,6 +3,7 @@ background-color:black;
 color:white;
 height:100%;
 font-family: 'Merriweather', serif; /*long text*/
+margin-top:0;
 }
 
 #name, #name2{
@@ -81,6 +82,7 @@ img {
 	height:45%;
 	margin-top:2%;
 	margin-left:3%;
+	float:right;
 	overflow:hidden;
 }
 
