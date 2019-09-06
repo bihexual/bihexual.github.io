@@ -61,55 +61,35 @@ img {
 	max-width:100%;
 }
 
-.top1{
-	height:21%;
-	width: 45%;
+.writingtable{
 	margin-top:2%;
 	margin-left:14%;
-	overflow:hidden;
+	width:69%;
+	height:43%;
 }
 
-.bot1{
-	height:21%;
-	width: 45%;
-	margin-top:1%;
-	margin-left:14%;
-	overflow:hidden;
+.writingtable_box{
+	height:30%;
+	width:49%;
+	
 }
 
-.rig{
-	width:21%;
-	height:45%;
+#botl{
 	margin-top:2%;
-	margin-left:3%;
-	float:right;
-	overflow:hidden;
 }
-
-.lbox{
-	height:100%;
-	width:47%;
-	background-color:green;
-	float:left;
+#topm{
+	margin-left:2%;
 }
-
-.rbox{
-	height:100%;
-	width:47%;
-	background-color:green;
-	float:right;
+#botm{
+	margin-left:2;
+	margin-top:2%;
 }
-
-.topb{
-	height:47%;
-	width:100%;
-	background-color:green;
+#topr{
+	margin-left:2%;
 }
-
-.botb{
-	height:47%;
-	width:100%;
-	background-color:green;
+#botr{
+	margin-top:2%;
+	margin-left:2%;
 }
 
 a#name, a.menu, a#name:visited, a.menu:visited{
