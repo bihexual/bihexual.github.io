@@ -66,7 +66,11 @@ img {
 	padding-left:14%;
 	width:69%;
 	height:43%;
+	display: table;
+    border-collapse: separate;
+    border-spacing: 2%;
 }
+
 
 .writingtable_box{
 	width:30%;
