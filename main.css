@@ -93,6 +93,7 @@ a#name, a.menu, a#name:visited, a.menu:visited{
 	}
   
   .dleft{
+	height:auto;
 	width: 96%;
 	float:none;
 	margin-top:2%;
@@ -100,6 +101,7 @@ a#name, a.menu, a#name:visited, a.menu:visited{
 	}	
 
 	.dright{
+	height:auto;
 	width: 96%;
 	float:none;
 	margin-top:2%;
