@@ -63,23 +63,19 @@ img {
 
 .writinggrid {
     width: 86%;
-    margin-left: 7%;
-    padding-top: 2%;
-	display:block;
-	}
+    margin-left: 14%;
+    padding-top: 1%;
+}
 .item{
-	max-width:31%;
+	max-width:25%;
 	padding: 1%;
 	}
-.row{
-	display:block;
-}
 
 a#name, a.menu, a#name:visited, a.menu:visited{
 	color:black;
 }
 
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 1200px) {
   body {
     background-color: lightblue;
 	}	
