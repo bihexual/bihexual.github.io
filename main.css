@@ -93,14 +93,12 @@ a#name, a.menu, a#name:visited, a.menu:visited{
 	}
   
   .dleft{
-	height:96%;
 	width: 96%;
 	margin-top:2%;
 	margin-left: 2%;
 	}	
 
 	.dright{
-	height:96%;
 	width: 96%;
 	margin-top:2%;
 	margin-left: 2%;
