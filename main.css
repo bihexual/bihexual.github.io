@@ -65,11 +65,15 @@ img {
     width: 86%;
     margin-left: 7%;
     padding-top: 2%;
+	display:block;
 	}
 .item{
 	max-width:31%;
 	padding: 1%;
 	}
+.row{
+	display:block;
+}
 
 a#name, a.menu, a#name:visited, a.menu:visited{
 	color:black;
