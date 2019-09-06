@@ -78,7 +78,7 @@ img {
 }
 
 .mobileitem{
-	max-width: 48%;
+	max-width: 47%;
 	padding: 1%;
 }
 
@@ -89,6 +89,7 @@ a#name, a.menu, a#name:visited, a.menu:visited{
 @media only screen and (max-width: 1200px) {
   body {
     background-color: lightblue;
+	height:100%;
 	}	
   .navbar{
 	  display:none;
@@ -110,12 +111,12 @@ a#name, a.menu, a#name:visited, a.menu:visited{
 	background-color:black;
 	}
 	.writinggrid{
-		display:none
+		display:none;
 	}
   
 }
 
-@media only screen and (min-width: 1000px) {
+@media only screen and (min-width: 1200px) {
 		#name2{
 				display:none;
 		}
