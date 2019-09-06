@@ -32,7 +32,6 @@ font-family: 'Merriweather', serif; /*long text*/
 }
 
 .blank_page{
-	background-color: yellow;
 	width:90%;
 	margin-left:5%;
 	height:80%;
@@ -44,7 +43,6 @@ font-family: 'Merriweather', serif; /*long text*/
 	float: left;
 	margin-top:2%;
 	margin-left: 2%;
-	background-color:red;
 }
 
 .dright{
@@ -53,7 +51,6 @@ font-family: 'Merriweather', serif; /*long text*/
 	float: right;
 	margin-top:2%;
 	margin-right: 2%;
-	background-color:black;
 }
 
 img {
@@ -100,7 +97,6 @@ a#name, a.menu, a#name:visited, a.menu:visited{
 	width: 96%;
 	margin-top:2%;
 	margin-left: 2%;
-	background-color:red;
 	}	
 
 	.dright{
@@ -108,7 +104,6 @@ a#name, a.menu, a#name:visited, a.menu:visited{
 	width: 96%;
 	margin-top:2%;
 	margin-left: 2%;
-	background-color:black;
 	}
 	.writinggrid{
 		display:none;
