@@ -61,14 +61,14 @@ img {
 	max-width:100%;
 }
 
-.writingtable{
-	padding-top:2%;
-	padding-left:14%;
-	width:69%;
-	height:43%;
-	display: table;
+.writingtable {
+    padding-top: 1%;
+    margin-left: 4%;
+    width: 92%;
+    height: 92%;
+    display: table;
     border-collapse: separate;
-    border-spacing: 2%;
+    border-spacing: 20px;
 }
 
 
