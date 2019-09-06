@@ -69,7 +69,18 @@ img {
 .item{
 	max-width:25%;
 	padding: 1%;
-	}
+}
+
+.mobilewritinggrid{
+	width:90%;
+	margin-left: 5%;
+	padding-top:1%;
+}
+
+.mobileitem{
+	max-width: 48%;
+	padding: 1%;
+}
 
 a#name, a.menu, a#name:visited, a.menu:visited{
 	color:black;
@@ -98,7 +109,8 @@ a#name, a.menu, a#name:visited, a.menu:visited{
 	margin-left: 2%;
 	background-color:black;
 	}
-	.blank_page{
+	.writinggrid{
+		display:none
 	}
   
 }
@@ -106,6 +118,9 @@ a#name, a.menu, a#name:visited, a.menu:visited{
 @media only screen and (min-width: 1000px) {
 		#name2{
 				display:none;
+		}
+		.mobilewritinggrid{
+			display:none;
 		}
 	
 	}
