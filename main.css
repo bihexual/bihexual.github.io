@@ -4,7 +4,6 @@ color:white;
 height:100%;
 width:100%;
 font-family: 'Merriweather', serif; /*long text*/
-margin-top:0;
 }
 
 #name, #name2{
@@ -62,9 +61,10 @@ img {
 	max-width:100%;
 }
 
-.writinggrid{
-	width:80%;
-	margin-left:10%;
+.writinggrid {
+    width: 86%;
+    margin-left: 7%;
+    padding-top: 2%;
 	}
 .item{
 	max-width:31%;
