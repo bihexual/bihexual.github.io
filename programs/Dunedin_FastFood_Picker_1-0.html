@@ -1,0 +1,67 @@
+---
+---
+<!DOCTYPE html>
+<html>
+<head>
+{% include head.html %}
+</head>
+<title>Fast Food Picker 1.0</title>
+<style>
+table,tr,td{text-align:center;}
+td{width:25%;}
+table{padding-left:1%;}
+a{color:white;}
+a:visited{color:white;}
+.button {
+  background-color:#986fe3;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+body{text-size:16px;}
+</style>
+</head>
+<body>
+<table>
+	<tr>
+		<td></td>
+		<td>Dunedin Fast Food and Takeaway Picker</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td><button type="button"
+onclick="getTMG('one')" class="button">
+Pick some food</button></td>
+	</tr>
+	<tr>
+		<td id="one"></td>
+		<td id="two"></td>
+		<td id="three"></td>
+	</tr>
+</table>
+	<script>
+	
+	function getTMG(eleID){
+	var tmgurl = rollTMG();;
+	document.getElementById(eleID).innerHTML = tmgurl;
+	}
+	
+	function rollTMG(){
+	var TMGa = ["McDonalds",
+"Burger King",
+"Wendys",
+"KFC",
+"Subway",
+"Dominos",
+"Mei Wahs",
+"Pita Jungle"]
+return TMGa[Math.floor((Math.random() * 8) + 0)];
+}
+	
+	</script>
+</body>
+</html>
