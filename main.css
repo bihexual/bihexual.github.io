@@ -23,6 +23,12 @@ font-family: 'Merriweather', serif; /*long text*/
 	font-family: 'Oswald', sans-serif; /*headers*/
 	font-size:22px;
 }
+.titular{
+	font-size:22px;
+}
+.furtherinfo{
+	/*blank*/
+}
 
 .navbar{
 	background-color:white;
