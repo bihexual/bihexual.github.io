@@ -82,6 +82,8 @@ img {
 .mobileitem{
 	max-width: 47%;
 	padding: 1%;
+	display:inline-grid;
+	vertical-align:top;
 }
 
 a#name, a.menu, a#name:visited, a.menu:visited{
