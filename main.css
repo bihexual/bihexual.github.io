@@ -33,7 +33,7 @@ font-family: 'Merriweather', serif; /*long text*/
 	padding-bottom:5%;
 }
 
-a.furtherinfo, a.furtherinfo:visited{
+.furtherinfo a,.furtherinfo a:visited{
 	color:white;
 }
 
