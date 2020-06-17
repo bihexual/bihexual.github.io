@@ -27,7 +27,10 @@ font-family: 'Merriweather', serif; /*long text*/
 	font-size:22px;
 }
 .furtherinfo{
-	/*blank*/
+	width: 86%;
+    margin-left: 14%;
+    padding-top: 1%;
+	padding-bottom:5%;
 }
 
 .navbar{
