@@ -1,5 +1,5 @@
 html, body{
-background-color:black;
+background-color:#1b0039;
 color:white;
 height:100%;
 width:100%;
@@ -31,6 +31,10 @@ font-family: 'Merriweather', serif; /*long text*/
     margin-left: 14%;
     padding-top: 1%;
 	padding-bottom:5%;
+}
+
+a.furtherinfo, a.furtherinfo:visited{
+	color:white;
 }
 
 .navbar{
@@ -101,7 +105,7 @@ a#name, a.menu, a#name:visited, a.menu:visited{
 
 @media only screen and (max-width: 1200px) {
   html,body {
-    background-color: black;
+    background-color: #1b0039;
 	height:100%;
 	}	
   .navbar{
